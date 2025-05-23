@@ -52,9 +52,9 @@ Project dibuat menggunakan **STM32CubeIDE** dan menggunakan **HAL Library**.
 ## 🖼️ Foto Rangkaian
 
 ![Foto Rangkaian 1](images/Rangkaian1.jpg)
-![Foto Rangkaian 2](images/rangkaian2.jpg)
-![Foto Rangkaian 3](images/rangkaian3.jpg)
-![Foto Rangkaian 4](images/rangkaian4.jpg)
+![Foto Rangkaian 2](images/Rangkaian2.jpg)
+![Foto Rangkaian 3](images/Rangkaian3.jpg)
+![Foto Rangkaian 4](images/Rangkaian4.jpg)
 
 ---
 
